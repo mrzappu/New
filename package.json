@@ -1,0 +1,32 @@
+{
+  "name": "RedemptionBot",
+  "version": "1.1.0",
+  "description": "Discord bot for REDEMPTION RP with Visa Number welcome system, styled welcome & goodbye embeds (with member avatars), voice logs (with DM on join), moderation (kick/ban), moveuser, /say command, setup commands, autorole setup, and dynamic member count status.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "redemption",
+    "visa",
+    "welcome",
+    "goodbye",
+    "voicelog",
+    "say",
+    "kick",
+    "ban",
+    "moveuser",
+    "status",
+    "roleplay",
+    "autorole"
+  ],
+  "author": "Rick",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
