@@ -131,7 +131,7 @@ function updateStatus() {
   if (!guild) return;
   const totalMembers = guild.memberCount;
   client.user.setPresence({
-    activities: [{ name: `${totalMembers} Members`, type: ActivityType.Watching }],
+    activities: [{ name: `${totalMembers} Redemption Members`, type: ActivityType.Watching }],
     status: 'online'
   });
 }
