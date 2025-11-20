@@ -10,3 +10,8 @@ Lore & Worldbuilding Database: A command-based system to quickly retrieve inform
 Event & Quest Management: Announce and track ongoing roleplaying events and quests.
 
 [Add more features here, e.g., XP tracking, item management, etc.]
+
+
+
+RP BOT 
+
